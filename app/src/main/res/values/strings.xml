@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyLocation</string>
+    <string name="action_settings">Settings</string>
+    <string name="locationCode">定位编号</string>
+    <string name="start">开始发送位置信息</string>
+    <string name="end">停止发送位置信息</string>
+</resources>
